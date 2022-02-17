@@ -4,7 +4,7 @@
  <img src="./github/churrascometro.gif" alt="demo-web" height="425">
  <hr>
  <h3>Teste aqui</h3>
- <a href="" target="_blank">Clique para entrar no site</a>
+ <a href="https://isaquemedeiros.github.io/Barbecue_Calculator-/" target="_blank">Clique para entrar no site</a>
  <h2>Tecnologias usadas</h2>
  <ul>
   <li><P>Javascript</P></li>
