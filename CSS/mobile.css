@@ -1,0 +1,36 @@
+/* IPHONE XR */
+@media only screen and  (max-width: 414px) {
+    .container{
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        height: 896px;
+        max-width: 414px;
+    }
+    }
+    /* S20 ULTRA */
+    @media only screen and  (max-width: 412px) {
+ 
+      
+    
+    }
+    /* PIXEL 5 */
+      @media only screen and  (max-width: 393px) {
+       
+      }
+    
+    /* IPHONE 12 PRO */
+    @media only screen and  (max-width: 390px) {
+     
+    }
+    
+    /* IPHONE SE */
+      @media only screen and  (max-width: 375px) {
+      
+       
+         
+        }
+        /* GALAXY FOLD */
+        @media only screen and  (max-width: 280px) {
+      
+        }
+    
